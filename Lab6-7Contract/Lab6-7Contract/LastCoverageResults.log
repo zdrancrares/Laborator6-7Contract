@@ -1,0 +1,21 @@
+[2023-04-05 17:01:35] [info] Start Program:
+Path:"C:\Users\dorin\source\repos\Lab6-7Contract\x64\Debug\Lab6-7Contract.exe"
+Arguments:
+Working directory: "C:\Users\dorin\source\repos\Lab6-7Contract\Lab6-7Contract\"
+Modules: Selected: C:\Users\dorin\source\repos\Lab6-7Contract\x64\Debug\Lab6-7Contract.exe Excluded: 
+Sources: Selected: C:\Users\dorin\source\repos\Lab6-7Contract\Lab6-7Contract Excluded: Consola.cpp main.cpp Teste.cpp 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\dorin\AppData\Local\Temp\2arbfids.pii 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-04-05 17:01:35] [info] Module: C:\Users\dorin\source\repos\Lab6-7Contract\x64\Debug\Lab6-7Contract.exe is selected because it matches selected pattern: C:\Users\dorin\source\repos\Lab6-7Contract\x64\Debug\Lab6-7Contract.exe
+[2023-04-05 17:01:36] [info] ----------------------------------------------------
+[2023-04-05 17:01:36] [info] Coverage binary generated in file: C:\Users\dorin\AppData\Local\Temp\2arbfids.pii
+[2023-04-05 17:01:36] [info] ----------------------------------------------------
